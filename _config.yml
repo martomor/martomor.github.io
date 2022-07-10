@@ -6,14 +6,14 @@ description: > # your text below (remove <br> elements if you don't need line br
     <a href=pdf/resume.pdf> Resume </a>
     <a>  |  </a>
     <a href="https://www.linkedin.com/in/martinrmoreno/">LinkedIn</a> 
-    " | "
+    <a>  |  </a>
     <a href="https://github.com/martomor">Github</a> 
-    " | "
+    <a>  |  </a>
   </p>
   <p align="justify">
     Certified Data Scientist and MLOPs Engineer. I build, deploy, monitor, iteratively improve, and scale Machine
     Learning Models operating in cloud-based (Azure, AWS and GCP) or On-Prem production environments.
-    <br>
+    <br></br>
     Currently working as an Associate Data Scientist in Marsh McLennan
   </p>
 
