@@ -3,10 +3,10 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br>Certified Data Scientist and MLOPs Engineer. I build, deploy, monitor, iteratively improve, and scale Machine
-Learning Models operating in cloud-based (Azure, AWS and GCP) or On-Prem production environments.<br>
+  Learning Models operating in cloud-based (Azure, AWS and GCP) or On-Prem production environments.<br>
   Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <br>Currently working as an Associate Data Scientist in Marsh McLennan <br>
+  <a href="https://www.linkedin.com/in/martinrmoreno/">LinkedIn</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
